@@ -23,13 +23,3 @@ Python & pandas for data cleaning and loading
 SQLite & SQL queries for data analysis
 
 Jupyter Notebook for interactive exploration and reporting
-
-How to Run
-Clone the repository:
-
-Bash
-
-git clone https://github.com/myleschukwukaz/Chicago_SQL_Analysis.git
-Open Chicago_Data_Analysis.ipynb in Jupyter Notebook.
-
-Run all cells to load data from provided URLs and execute SQL querie
